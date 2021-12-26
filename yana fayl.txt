@@ -1,0 +1,15 @@
+sdgfer
+tge
+rtg
+e
+
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/24ulugbek24/yangi.git
+git push -u origin main
+
+
+yuklashdan oldin git add dan keyingi readme md ni o'rniga . -nuqta qo'yyapman
